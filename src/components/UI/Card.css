@@ -1,0 +1,7 @@
+/* This component is created to include the common styling of expense-item and expenses class */
+
+
+.card{
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
